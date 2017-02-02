@@ -1,0 +1,229 @@
+[
+  {
+    "img": "../pictures/apple/air_.jpg",
+    "description": "macOS is the operating system that powers everything you do on a Mac. macOS Sierra introduces Siri to Mac — along with new ways to enjoy your photos, shop more securely online, and work more seamlessly between devices.",
+    "category": "apple",
+    "type":"foreign brand",
+    "price": "low price"
+  },
+  {
+    "img": "../pictures/apple/apple_logo1.jpg",
+    "description": "With iCloud, you always have the latest versions of your most important things — like documents, apps, notes, and contacts — on whatever device you’re using.",
+    "category": "apple",  
+    "type":"foreign brand",
+    "price": "high price"
+  },
+  {
+    "img": "../pictures/apple/apple_logo3.jpg",
+    "description": "Powerful creativity and productivity tools live inside every Mac — apps that help you explore, connect, and work more efficiently. Discover thousands more in the ",
+    "category": "apple",  
+    "type":"foreign brand",
+    "price": "high price"
+  },
+  {
+    "img": "../pictures/apple/apple_logoClassic.jpg",
+    "description": "Photos Keep your growing library organized and accessible. Perfect your images and create beautiful gifts for sharing. And with iCloud Photo Library, you can store a lifetime’s worth of photos and videos in the cloud.",
+    "category": "apple",  
+    "type":"foreign brand",
+    "price": "high price"
+  },
+  {
+    "img": "../pictures/apple/appple_logo2.png",
+    "description": "For professionals ready to push their creativity, these industry-leading apps offer maximum control over editing, processing, and output of music and film.",
+    "category": "apple",  
+    "type":"foreign brand",
+    "price": "high price"
+  },
+  {
+    "img": "../pictures/apple/ipad.jpg",
+    "description": "Built to meet the needs of today’s creative editors, Final Cut Pro offers revolutionary video editing, powerful media organization, and incredible performance optimized for Mac computers and macOS Sierra.",
+    "category": "apple",  
+    "type":"foreign brand",
+    "price": "middle price"
+  },
+  {
+    "img": "../pictures/apple/iphone_5.jpg",
+    "description": "",
+    "category": "apple",  
+    "type":"foreign brand",
+    "price": "low price"
+  },
+  {
+    "img": "../pictures/apple/iphone_7.jpg",
+    "description": "",
+    "category": "apple",  
+    "type":"foreign brand",
+    "price": "high price"
+  },
+  {
+    "img": "../pictures/apple/ipod.jpg",
+    "description": "",
+    "category": "apple",  
+    "type":"foreign brand",
+    "price": "low price"
+  },
+  {
+    "img": "../pictures/apple/keyboard.jpg",
+    "description": "",
+    "category": "apple",  
+    "type":"foreign brand",
+    "price": "low price"
+  },
+  {
+    "img": "../pictures/apple/mac_desktop.jpg",
+    "description": "",
+    "category": "apple",  
+    "type":"foreign brand",
+    "price": "high price"
+  },
+  {
+    "img": "../pictures/apple/mac.jpg",
+    "description": "",
+    "category": "apple",  
+    "type":"foreign brand",
+    "price": "high price"
+  },
+  {
+    "img": "../pictures/apple/mac1.jpg",
+    "description": "",
+    "category": "apple",  
+    "type":"foreign brand",
+    "price": "high price"
+  },
+  {
+    "img": "../pictures/apple/Macbook_air.jpg",
+    "description": "",
+    "category": "apple",  
+    "type":"foreign brand",
+    "price": "high price"
+  },
+  {
+    "img": "../pictures/apple/mouse.png",
+    "description": "",
+    "category": "apple",  
+    "type":"foreign brand",
+    "price": "middle price"
+  },
+  {
+    "img": "../pictures/apple/smarWatch.jpg",
+    "description": "",
+    "category": "apple",  
+    "type":"foreign brand",
+    "price": "middle price"
+  },
+
+
+
+  { 
+    "img": "../pictures/beerBrands/amstel.jpg",
+    "description": "Pale ale is a beer which uses a top-fermenting yeast[95] and predominantly pale malt. It is one of the world's major beer styles.",
+    "category": "beer brands",
+    "type":"foreign brand",
+    "price": ""
+  },
+  {
+    "img": "../pictures/beerBrands/becks.jpg",
+    "description": "Stout and porter are dark beers made using roasted malts or roast barley, and typically brewed with slow fermenting yeast. There are a number of variations including Baltic porter, dry stout, and Imperial stout. ",
+    "category": "beer brands",
+    "type":"foreign brand",
+    "price": ""
+  },
+  {
+    "img": "../pictures/beerBrands/bernard.jpg",
+    "description": "Mild ale has a predominantly malty palate. It is usually dark coloured with an abv of 3% to 3.6%, although there are lighter hued milds as well as stronger examples reaching 6% ",
+    "category": "beer brands",
+    "type":"foreign brand",
+    "price": ""
+  },
+  {
+    "img": "../pictures/beerBrands/bial_stark.jpg",
+    "description": "Lambic, a beer of Belgium, is naturally fermented using wild yeasts, rather than cultivated. Many of these are not strains of brewer's yeast",
+    "category": "beer brands",
+    "type":"BG brand",
+    "price": ""
+  },
+  {
+    "img": "../pictures/beerBrands/carlsberg.jpg",
+    "description": "Lager is cool fermented beer. Pale lagers are the most commonly consumed beers in the world. The name lager comes from the German lagern ",
+    "category": "beer brands",
+    "type":"foreign brand",
+    "price": ""
+  },
+  {
+    "img": "../pictures/beerBrands/fix.png",
+    "description": "Beer colour is determined by the malt.[105] The most common colour is a pale amber produced from using pale malts. Pale lager and pale ale are t",
+    "category": "beer brands",
+    "type":"foreign brand",
+    "price": ""
+  },
+  {
+    "img": "../pictures/beerBrands/glarus_glass.jpg",
+    "description": "",
+    "category": "beer brands",
+    "type":"BG brand",
+    "price": ""
+  },
+  {
+    "img": "../pictures/beerBrands/glarus.png",
+    "description": "",
+    "category": "beer brands",
+    "type":"BG brand",
+    "price": ""
+  },
+  {
+    "img": "../pictures/beerBrands/guinnes.png",
+    "description": "",
+    "category": "beer brands",
+    "type":"foreign brand",
+    "price": ""
+  },
+  {
+    "img": "../pictures/beerBrands/heineken.jpg",
+    "description": "",
+    "category": "beer brands",
+    "type":"foreign brand",
+    "price": ""
+  },
+  {
+    "img": "../pictures/beerBrands/kaltenberg.jpg",
+    "description": "",
+    "category": "beer brands",
+    "type":"foreign brand",
+    "price": ""
+  },
+  {
+    "img": "../pictures/beerBrands/regent.jpg",
+    "description": "",
+    "category": "beer brands",
+    "type":"foreign brand",
+    "price": ""
+  },
+  {
+    "img": "../pictures/beerBrands/staropramen.png",
+    "description": "",
+    "category": "beer brands",
+    "type":"foreign brand",
+    "price": ""
+  },
+  {
+    "img": "../pictures/beerBrands/stella.jpg",
+    "description": "",
+    "category": "beer brands",
+    "type":"foreign brand",
+    "price": ""
+  },
+  {
+    "img": "../pictures/beerBrands/tuborg.jpg",
+    "description": "",
+    "category": "beer brands",
+    "type":"foreign brand",
+    "price": ""
+  },
+  {
+    "img": "../pictures/beerBrands/weihenstephan.jpg",
+    "description": "",
+    "category": "beer brands",
+    "type":"foreign brand",
+    "price": ""
+  }
+]
